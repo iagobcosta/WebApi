@@ -12,7 +12,7 @@ Api desenvolvida em C#
 # Alunos
 Iago Barbosa da Costa
 
-Laryssa Rodrigues
+Laryssa Rodrigues Batista Braga
 
 
 # Buscar todos registros com Método de HTTP GET
