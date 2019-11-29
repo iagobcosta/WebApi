@@ -1,6 +1,10 @@
 # WebApi
 Api desenvolvida em C#
 
+# Alunos
+Iago Barbosa da Costa
+Laryssa Rodrigues
+
 # Request Url
 Buscar todos registros com o Request GET
 http://localhost:44328/api/Pessoa
