@@ -1,3 +1,11 @@
+# Configuração
+1° Baixe o codigo fone do projeto.
+
+2° Abra o projeto no visual studio.
+
+3° Execute o sistema no botão Run
+
+
 # WebApi
 Api desenvolvida em C#
 
