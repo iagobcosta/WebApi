@@ -7,16 +7,16 @@ Iago Barbosa da Costa
 Laryssa Rodrigues
 
 # Request Url
-Buscar todos registros com o Request GET
+# Buscar todos registros com GET
 http://localhost:44328/api/Pessoa
 
-# Buscar pessoa por ID com o Request GET
+# Buscar pessoa por ID com GET
 http://localhost:44328/api/Pessoa/{ID}
 
-# Buscar pessoa por nome com o Request GET
+# Buscar pessoa por nome com GET
 http://localhost:44328/api/Pessoa?nome={name}
 
-# Inserir registro com o Request POST
+# Inserir registro com POST
 http://localhost:44328/api/Pessoa
 Header
 {
@@ -26,10 +26,10 @@ Header
   "CPF": "111.111.111-11",
   "Email": "exemplo@gmail.com"
 }
-# Excluir um registro com o Request REMOVE
+# Excluir um registro com REMOVE
 http://localhost:44328/api/Pessoa/{ID}
 
-# Editar um registro com o Request PUT
+# Editar um registro com PUT
 http://localhost:44328/api/Pessoa/{ID}
 Header
 {
